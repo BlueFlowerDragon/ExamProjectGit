@@ -1,0 +1,11 @@
+{"ItemEntityList":[
+{"ID":1,"Name":"白巧克力","IMG":"choco","ItemTypeString":"Consumable","Description":"一包已打開的白色巧克力，到期日被劃掉","BuyPrice":20,"SellPrice":5},
+{"ID":2,"Name":"黑巧克力","IMG":"choco_D","ItemTypeString":"Consumable","Description":"一包已打開的黑色巧克力，到期日被劃掉","BuyPrice":45,"SellPrice":10},
+{"ID":3,"Name":"白色藥水","IMG":"cure","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名白色藥水，未封蓋","BuyPrice":80,"SellPrice":25},
+{"ID":4,"Name":"紅色藥水","IMG":"cure_R","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名紅色藥水，未封蓋","BuyPrice":10,"SellPrice":3},
+{"ID":5,"Name":"橙色藥水","IMG":"cure_O","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名橙色藥水，未封蓋","BuyPrice":200,"SellPrice":50},
+{"ID":6,"Name":"黃色藥水","IMG":"cure_Y","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名黃色藥水，未封蓋","BuyPrice":200,"SellPrice":50},
+{"ID":7,"Name":"綠色藥水","IMG":"cure_G","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名綠色藥水，未封蓋","BuyPrice":200,"SellPrice":50},
+{"ID":8,"Name":"藍色藥水","IMG":"cure_B","ItemTypeString":"Consumable","Description":"不斷冒泡的不知名藍色藥水，未封蓋","BuyPrice":200,"SellPrice":50},
+{"ID":9,"Name":"鑰匙","IMG":"key","ItemTypeString":"Consumable","Description":"疑似有防盜芯片的鑰匙","BuyPrice":200,"SellPrice":50}
+]}
